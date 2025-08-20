@@ -1,0 +1,27 @@
+h1{
+    color:rgb(255, 252, 252); 
+    
+}
+body{
+    background-color: rgba(28, 28, 28, 0.982);
+}
+p{
+    color: white
+}
+h2{
+    color:orange
+}
+ul{
+    color:rgb(251, 251, 251);
+    border-color:white;
+    border-width: 5px;
+    border-style:solid;
+    border-radius: 100px;
+    border-color:orange
+}
+h3{
+    color:lightyellow
+}
+q{
+    color: white
+}
